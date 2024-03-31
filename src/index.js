@@ -11,7 +11,7 @@ const img = `<img src="${logo}" alt="코딩앙마" />`;
 const users = [
   {
     id: 1,
-    name: "블랙 위도우111",
+    name: "블랙 위도우112221",
   },
   {
     id: 2,
