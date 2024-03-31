@@ -1,8 +1,8 @@
 // import { hello, add } from "./util";
-import "./style.css";
-import "./header.css";
 import List from "./List";
+import "./header.css";
 import logo from "./images/angma.jpg";
+import "./style.css";
 
 // const text = hello("<h1>나는 코딩앙마!!~~</h1>");
 // const num = add(1, 2);
@@ -11,7 +11,7 @@ const img = `<img src="${logo}" alt="코딩앙마" />`;
 const users = [
   {
     id: 1,
-    name: "블랙 위도우",
+    name: "블랙 위도우111",
   },
   {
     id: 2,
